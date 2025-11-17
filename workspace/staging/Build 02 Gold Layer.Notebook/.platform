@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Build 02 Gold Layer"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "afbac586-e9be-bc36-4cf3-90b4f19674fe"
+  }
+}
