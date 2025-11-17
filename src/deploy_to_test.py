@@ -23,7 +23,7 @@ ENVIRONMENT = 'TEST'
 AppLogger.log_substep(
   f'Updating Test workspace with id [{workspace_id}] in environment {ENVIRONMENT}')
 
-item_type_in_scope = [ "Lakehouse", "Notebook", "SemanticModel", "Report", "DataPipeline", 
+item_type_in_scope = [ "Lakehouse", "Notebook", "SemanticModel", "Report", "DataPipeline",
                        "Environment", "CopyJob", "Dataflow", "Warehouse" ]
 
 # Initialize the FabricWorkspace object with the required parameters
